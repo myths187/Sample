@@ -1,3 +1,3 @@
 # Sample
 Sample text file
-First Change
+First Change conflicting changes added
